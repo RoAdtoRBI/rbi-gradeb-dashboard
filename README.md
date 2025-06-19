@@ -1,3 +1,3 @@
 # RBI Grade B Dashboard
 
-This is a React-based dashboard for RBI Grade B preparation.
+This is a React-based dashboard app for RBI Grade B aspirants.

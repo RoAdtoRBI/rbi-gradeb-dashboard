@@ -1,3 +1,3 @@
 # RBI Grade B Dashboard
 
-Deployed with Vercel. Education-focused dashboard for RBI Grade B aspirants.
+This is a React-based dashboard for RBI Grade B preparation.
